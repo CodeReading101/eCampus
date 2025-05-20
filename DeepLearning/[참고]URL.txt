@@ -13,3 +13,6 @@ https://aiopen.etri.re.kr/
 GPT in 60 Lines of NumPy
 https://github.com/jaymody/picoGPT
 https://github.com/jaymody/picoBERT
+
+GPT 구조 및 작동 원리
+https://blog.naver.com/kairos__ku/223179833790
