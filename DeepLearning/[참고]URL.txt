@@ -16,4 +16,5 @@ https://github.com/jaymody/picoBERT
 
 GPT 구조 및 작동 원리
 https://blog.naver.com/kairos__ku/223179833790
+https://ainote.tistory.com/17
 https://jalammar.github.io/illustrated-gpt2/
